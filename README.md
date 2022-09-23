@@ -1,4 +1,4 @@
-###💻About Me☁️
+# 💻About Me☁️
 
 Hi there 👋. I'm Jacklyne Mbuthia, a Cloud Security Engineer who is passionate about all things cloud with a keen interest in securing cloud environments. i'm passionate about demistifying the cloud and advocating for secure cloud practices☁️
 
@@ -13,7 +13,7 @@ Hi there 👋. I'm Jacklyne Mbuthia, a Cloud Security Engineer who is passionate
   - Twitter: bugsandbags_
   - LinkedIn: https://ke.linkedin.com/in/jacklyne-mbuthia
   
-#✍🏾My Blog Posts:
+# ✍🏾My Blog Posts:
 - https://medium.com/@bugsandbagswrites/terraform-101-and-iac-security-8ec34cda0153
 - https://medium.com/@bugsandbagswrites/terraform-101-and-iac-security-8ec34cda0153
 - https://medium.com/@bugsandbagswrites/the-blurred-cloud-shared-responsibility-43e24b1182ff
